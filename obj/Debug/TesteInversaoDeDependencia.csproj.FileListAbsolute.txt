@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\obj\Debug\TesteInversaoDeDependencia.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\obj\Debug\TesteInversaoDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\bin\Debug\TesteInversaoDeDependencia.exe.config
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\bin\Debug\TesteInversaoDeDependencia.exe
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\bin\Debug\TesteInversaoDeDependencia.pdb
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\obj\Debug\TesteInversaoDeDependencia.exe
+C:\Users\admin\Desktop\Testes Estudo De Codigos\TesteInversaoDeDependencia\obj\Debug\TesteInversaoDeDependencia.pdb
